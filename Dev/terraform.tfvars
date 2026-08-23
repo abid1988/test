@@ -5,7 +5,7 @@ rg_name = {
     location = "East US"
   }
   rg2 = {
-    name     = "RG-DEV-2"
+    name     = "RG-Github"
     location = "centralindia"
   }
 }
